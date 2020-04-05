@@ -1,91 +1,89 @@
-{
-    "packet": [
-        {
-            "id": 1, 
-            "title": "Bayi",
-            "harga": 14900,
-            "harga_gimick": 19900,
-            "pengguna": 938,
-            "diskon": "",
-            "detail": {
-                "resourcepower": "0,5 X",
-                "diskspace": "500 MB",
-                "bandwitch": "Unlimited",
-                "database": "Unlimited",    
-                "domain": 1,
-                "freedomain": "", 
-                "backup": "Instant",
-                "ssl": "Unlimited SSL",
-                "nameserver": "",
-                "mailprotection": "",
-                "prioritaslayanan": ""
-            }                
-        },
-        {
-            "id": 2, 
-            "title": "Pelajar",
-            "harga": 23450,
-            "harga_gimick": 46900,
-            "pengguna": 4168,
-            "diskon": "",
-            "detail": {
-                "resourcepower": "1 X",
-                "diskspace": "Unlimited",
-                "bandwitch": "Unlimited",
-                "database": "Unlimited",
-                "email": "Unlimited",
-                "domain": 10,
-                "freedomain": "Domain Gratis",
-                "backup": "Instant",
-                "ssl": "Unlimited SSL",
-                "nameserver": "",
-                "mailprotection": "",
-                "prioritaslayanan": ""
-            } 
-        },
-        {
-            "id": 3, 
-            "title": "Personal",
-            "harga": 38900,
-            "harga_gimick": 58900,
-            "pengguna": 10017,
-            "diskon": "",
-            "detail": {
-                "resourcepower": "2 X",
-                "diskspace": "Unlimited",
-                "bandwitch": "Unlimited",
-                "database": "Unlimited",
-                "email": "Unlimited", 
-                "domain": "Unlimited",
-                "freedomain": "Domain Gratis",
-                "backup": "Instant",
-                "ssl": "Unlimited SSL",
-                "nameserver": "Private",
-                "mailprotection": "SpamAssasin",
-                "prioritaslayanan": ""
-            } 
-        },
-        {
-            "id": 4, 
-            "title": "Bisnis",
-            "harga": 65900,
-            "harga_gimick": 109900,
-            "pengguna": 3552,
-            "diskon": "Diskon 40 %",
-            "detail": {
-                "resourcepower": "3 X",
-                "diskspace": "Unlimited",
-                "bandwitch": "Unlimited",
-                "database": "Unlimited",
-                "email": "Unlimited",
-                "domain": "Unlimited",
-                "freedomain": "Domain Gratis",
-                "backup": "Magic Auto",
-                "ssl": "Unlimited SSL",
-                "nameserver": "Private",
-                "mailprotection": "SpamExpert",
-                "prioritaslayanan": "Prioritas"
-            } 
-        }
-    ]
-}
+[
+    {
+        "id": 1, 
+        "title": "Bayi",
+        "harga": 14900,
+        "harga_gimick": 19900,
+        "pengguna": 938,
+        "diskon": "",
+        "detail": {
+            "resourcepower": "0,5 X",
+            "diskspace": "500 MB",
+            "bandwitch": "Unlimited",
+            "database": "Unlimited",    
+            "domain": 1,
+            "freedomain": "", 
+            "backup": "Instant",
+            "ssl": "Unlimited SSL",
+            "nameserver": "",
+            "mailprotection": "",
+            "prioritaslayanan": ""
+        }                
+    },
+    {
+        "id": 2, 
+        "title": "Pelajar",
+        "harga": 23450,
+        "harga_gimick": 46900,
+        "pengguna": 4168,
+        "diskon": "",
+        "detail": {
+            "resourcepower": "1 X",
+            "diskspace": "Unlimited",
+            "bandwitch": "Unlimited",
+            "database": "Unlimited",
+            "email": "Unlimited",
+            "domain": 10,
+            "freedomain": "Domain Gratis",
+            "backup": "Instant",
+            "ssl": "Unlimited SSL",
+            "nameserver": "",
+            "mailprotection": "",
+            "prioritaslayanan": ""
+        } 
+    },
+    {
+        "id": 3, 
+        "title": "Personal",
+        "harga": 38900,
+        "harga_gimick": 58900,
+        "pengguna": 10017,
+        "diskon": "",
+        "detail": {
+            "resourcepower": "2 X",
+            "diskspace": "Unlimited",
+            "bandwitch": "Unlimited",
+            "database": "Unlimited",
+            "email": "Unlimited", 
+            "domain": "Unlimited",
+            "freedomain": "Domain Gratis",
+            "backup": "Instant",
+            "ssl": "Unlimited SSL",
+            "nameserver": "Private",
+            "mailprotection": "SpamAssasin",
+            "prioritaslayanan": ""
+        } 
+    },
+    {
+        "id": 4, 
+        "title": "Bisnis",
+        "harga": 65900,
+        "harga_gimick": 109900,
+        "pengguna": 3552,
+        "diskon": "Diskon 40 %",
+        "detail": {
+            "resourcepower": "3 X",
+            "diskspace": "Unlimited",
+            "bandwitch": "Unlimited",
+            "database": "Unlimited",
+            "email": "Unlimited",
+            "domain": "Unlimited",
+            "freedomain": "Domain Gratis",
+            "backup": "Magic Auto",
+            "ssl": "Unlimited SSL",
+            "nameserver": "Private",
+            "mailprotection": "SpamExpert",
+            "prioritaslayanan": "Prioritas"
+        } 
+    }
+]

@@ -1,5 +1,5 @@
-{
-    "about": {
+[
+    {
         "support_php" : {
             "headline": "Powerfull dengan Limit PHP yang Lebih Besar",
             "list": [
@@ -131,4 +131,4 @@
             "path": "~/assets/img/homepage/Image support.png"
         }
     }
-}
+]
