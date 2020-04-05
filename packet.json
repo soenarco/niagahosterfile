@@ -5,7 +5,7 @@
                 "id": 1, 
                 "title": "Bayi",
                 "harga": 14900,
-                "harga-gimick": 19900,
+                "harga_gimick": 19900,
                 "pengguna": 938,
                 "diskon": "",
                 "detail": {
@@ -26,7 +26,7 @@
                 "id": 2, 
                 "title": "Pelajar",
                 "harga": 23450,
-                "harga-gimick": 46900,
+                "harga_gimick": 46900,
                 "pengguna": 4168,
                 "diskon": "",
                 "detail": {
@@ -48,7 +48,7 @@
                 "id": 3, 
                 "title": "Personal",
                 "harga": 38900,
-                "harga-gimick": 58900,
+                "harga_gimick": 58900,
                 "pengguna": 10017,
                 "diskon": "",
                 "detail": {
@@ -70,7 +70,7 @@
                 "id": 4, 
                 "title": "Bisnis",
                 "harga": 65900,
-                "harga-gimick": 109900,
+                "harga_gimick": 109900,
                 "pengguna": 3552,
                 "diskon": "40 %",
                 "detail": {
