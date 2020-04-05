@@ -14,32 +14,32 @@
         "headline": "Semua Paket Hosting Sudah Termasuk",
         "list": [
             {
-                "path": "~/assets/img/svg/php_versi.svg",
+                "path": "/_nuxt/assets/img/svg/php_versi.svg",
                 "title": "PHP Semua Versi",
                 "description": "Pilih mulai dari versi PHP 5.3 s/d PHP 7. ubah sesuka Anda!"
             },
             {
-                "path": "~/assets/img/svg/icon PHP Hosting_My SQL.svg",
+                "path": "/_nuxt/assets/img/svg/icon PHP Hosting_My SQL.svg",
                 "title": "MySQL Versi 5.6",
                 "description": "Nikmati MySQL versi terbaru, tercepat dan kaya akan fitur."
             },
             {
-                "path": "~/assets/img/svg/icon PHP Hosting_CPanel.svg",
+                "path": "/_nuxt/assets/img/svg/icon PHP Hosting_CPanel.svg",
                 "title": "Panel Hosting cPanel",
                 "description": "Kelola website dengan panel canggih yang familiar di hati Anda."
             },
             {
-                "path": "~/assets/img/svg/icon PHP Hosting_garansi uptime.svg",
+                "path": "/_nuxt/assets/img/svg/icon PHP Hosting_garansi uptime.svg",
                 "title": "Garansi Uptime 99.9%",
                 "description": "Data center yang mendukung kelangsungan website Anda 24/7."
             },
             {
-                "path": "~/assets/img/svg/icon PHP Hosting_InnoDB.svg",
+                "path": "/_nuxt/assets/img/svg/icon PHP Hosting_InnoDB.svg",
                 "title": "Database InnoDB Unlimited",
                 "description": "Jumlah dan ukuran database yang tumbuh sesuai kebutuhan Anda."
             },
             {
-                "path": "~/assets/img/svg/icon PHP Hosting_My SQL remote.svg",
+                "path": "/_nuxt/assets/img/svg/icon PHP Hosting_My SQL remote.svg",
                 "title": "Wildcard Remote MySQL",
                 "description": "Mendukung s/d 25 max_user_connection dan 100 max_connection."
             }
@@ -54,7 +54,7 @@
             "Tersedia Composer dan SSH untuk menginstall packages pilihan Anda."
         ],
         "note": "NB. Composer dan SSH hanya tersedia pada paket Personal dan Bisnis",
-        "path": "~/assets/img/svg/illustration banner support laravel hosting.svg"
+        "path": "/_nuxt/assets/img/svg/illustration banner support laravel hosting.svg"
     },
     {
         "headline": "Modul Lengkap untuk Menjalankan Aplikasi PHP Anda",
@@ -127,6 +127,6 @@
     {
         "headline": "Linux Hosting yang Stabil dengan Teknologi LVE",
         "description": "SuperMicro <b>Intel Xeon 24-Cores</b> server RAM 128 GB dan teknologi LVE CLoudLinux untuk stabilitas server Anda. dilengkapi dengan SSD untuk kecepatan MySQL dan caching, Apache load balancer berbasis LiteSpeed Technologies, CageFs security, Raid-10 protection dan auto backup untuk keamanan website PHP Anda.",
-        "path": "~/assets/img/homepage/Image support.png"
+        "path": "/_nuxt/assets/img/homepage/Image support.png"
     }
 ]
