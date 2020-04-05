@@ -15,8 +15,8 @@
                     "database": "Unlimited",    
                     "domain": 1,
                     "freedomain": "", 
-                    "backup": "Instant Backup",
-                    "ssl": "Unlimited SSL Gratis Selamanya",
+                    "backup": "Instant",
+                    "ssl": "Unlimited SSL",
                     "nameserver": "",
                     "mailprotection": "",
                     "prioritaslayanan": ""
@@ -37,8 +37,8 @@
                     "email": "Unlimited",
                     "domain": 10,
                     "freedomain": "Domain Gratis",
-                    "backup": "Instant Backup",
-                    "ssl": "Unlimited SSL Gratis Selamanya",
+                    "backup": "Instant",
+                    "ssl": "Unlimited SSL",
                     "nameserver": "",
                     "mailprotection": "",
                     "prioritaslayanan": ""
@@ -59,8 +59,8 @@
                     "email": "Unlimited", 
                     "domain": "Unlimited",
                     "freedomain": "Domain Gratis",
-                    "backup": "Instant Backup",
-                    "ssl": "Unlimited SSL Gratis Selamanya",
+                    "backup": "Instant",
+                    "ssl": "Unlimited SSL",
                     "nameserver": "Private",
                     "mailprotection": "SpamAssasin",
                     "prioritaslayanan": ""
@@ -72,7 +72,7 @@
                 "harga": 65900,
                 "harga_gimick": 109900,
                 "pengguna": 3552,
-                "diskon": "40 %",
+                "diskon": "Diskon 40 %",
                 "detail": {
                     "resourcepower": "3 X",
                     "diskspace": "Unlimited",
@@ -81,8 +81,8 @@
                     "email": "Unlimited",
                     "domain": "Unlimited",
                     "freedomain": "Domain Gratis",
-                    "backup": "Instant Backup",
-                    "ssl": "Unlimited SSL Gratis Selamanya",
+                    "backup": "Magic Auto",
+                    "ssl": "Unlimited SSL",
                     "nameserver": "Private",
                     "mailprotection": "SpamExpert",
                     "prioritaslayanan": "Prioritas"
