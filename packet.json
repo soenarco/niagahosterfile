@@ -1,6 +1,22 @@
 [
-    {"id": 1, "title": "Bayi"},
-    {"id": 2, "title": "Pelajar"},
-    {"id": 3, "title": "Personal"},
-    {"id": 4, "title": "Bisnis"}
+    {
+        "data": [
+            {
+                "id": 1, 
+                "title": "Bayi"
+            },
+            {
+                "id": 2, 
+                "title": "Pelajar"
+            },
+            {
+                "id": 3, 
+                "title": "Personal"
+            },
+            {
+                "id": 4, 
+                "title": "Bisnis"
+            }
+        ]
+    } 
 ]
