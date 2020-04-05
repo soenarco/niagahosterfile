@@ -1,2 +1,1 @@
-# niagahosterfile
-json file
+json file for test frontend niagahoster
