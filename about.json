@@ -1,7 +1,14 @@
 [
     {
         "headline": "Powerfull dengan Limit PHP yang Lebih Besar",
-        "list": ["max execution 300s", "max execution 300s", "php memory limit 1024 MB", "post max size 128 MB", "upload max filesize 128 MB","max input var 2500"]
+        "list": [
+            "max execution 300s",
+            "max execution 300s",
+            "php memory limit 1024 MB",
+            "post max size 128 MB",
+            "upload max filesize 128 MB",
+            "max input var 2500"
+        ]
     },
     {
         "headline": "Semua Paket Hosting Sudah Termasuk",
@@ -41,7 +48,11 @@
     {
         "headline": "Mendukung Penuh Framework Laravel",
         "description": "Tak perlu menngunakan dedicated server ataupun VPS yang mahal. Layanan PHP hosting murah kami mendukung penuh framework Anda",
-        "list": ["Instal Laravel 1 Klik dengan softaculous installer.", "Mendukung ekstensi PHP MyCript, phar, mbstring, json, dan fileinfo.","Tersedia Composer dan SSH untuk menginstall packages pilihan Anda."],
+        "list": [
+            "Instal Laravel 1 Klik dengan softaculous installer.",
+            "Mendukung ekstensi PHP MyCript, phar, mbstring, json, dan fileinfo.",
+            "Tersedia Composer dan SSH untuk menginstall packages pilihan Anda."
+        ],
         "note": "NB. Composer dan SSH hanya tersedia pada paket Personal dan Bisnis",
         "path": "~/assets/img/svg/illustration banner support laravel hosting.svg"
     },
