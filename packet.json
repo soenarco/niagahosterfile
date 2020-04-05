@@ -88,6 +88,138 @@
                     "prioritaslayanan": "Prioritas"
                 } 
             }
-        ]
+        ],
+        "about": {
+            "support_php" : {
+                "headline": "Powerfull dengan Limit PHP yang Lebih Besar",
+                "list": [
+                    "max execution 300s",
+                    "max execution 300s",
+                    "php memory limit 1024 MB",
+                    "post max size 128 MB",
+                    "upload max filesize 128 MB",
+                    "max input var 2500"
+                ]
+            },
+            "support_packet" : {
+                "headline": "Semua Paket Hosting Sudah Termasuk",
+                "list": [
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_PHP Semua Versi.svg",
+                        "title": "PHP Semua Versi",
+                        "description": "Pilih mulai dari versi PHP 5.3 s/d PHP 7. ubah sesuka Anda!"
+                    },
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_My SQL.svg",
+                        "title": "MySQL Versi 5.6",
+                        "description": "Nikmati MySQL versi terbaru, tercepat dan kaya akan fitur."
+                    },
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_CPanel.svg",
+                        "title": "Panel Hosting cPanel",
+                        "description": "Kelola website dengan panel canggih yang familiar di hati Anda."
+                    },
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_garansi uptime.svg",
+                        "title": "Garansi Uptime 99.9%",
+                        "description": "Data center yang mendukung kelangsungan website Anda 24/7."
+                    },
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_InnoDB.svg",
+                        "title": "Database InnoDB Unlimited",
+                        "description": "Jumlah dan ukuran database yang tumbuh sesuai kebutuhan Anda."
+                    },
+                    {
+                        "path": "~/assets/img/svg/icon PHP Hosting_My SQL remote.svg",
+                        "title": "Wildcard Remote MySQL",
+                        "description": "Mendukung s/d 25 max_user_connection dan 100 max_connection."
+                    }
+                ]
+            },
+            "support_laravel" : {
+                "headline": "Mendukung Penuh Framework Laravel",
+                "description": "Tak perlu menngunakan dedicated server ataupun VPS yang mahal. Layanan PHP hosting murah kami mendukung penuh framework Anda",
+                "list": [
+                    "Instal Laravel 1 Klik dengan softaculous installer.",
+                    "Mendukung ekstensi PHP MyCript, phar, mbstring, json, dan fileinfo.",
+                    "Tersedia Composer dan SSH untuk menginstall packages pilihan Anda.",
+                ],
+                "note": "NB. Composer dan SSH hanya tersedia pada paket Personal dan Bisnis",
+                "path": "~/assets/img/svg/illustration banner support laravel hosting.svg"
+            },
+            "support_modul" : {
+                "headline": "Modul Lengkap untuk Menjalankan Aplikasi PHP Anda",
+                "list": [
+                    "icePHP",
+                    "apc",
+                    "apcu",
+                    "apm",
+                    "ares",
+                    "bcmath",
+                    "bcompiler",
+                    "big_int",
+                    "bitset",
+                    "bloomy",
+                    "bz2_filter",
+                    "clamav",
+                    "coin_acceptor",
+                    "crack",
+                    "dba",
+
+                    "http",
+                    "huffman",
+                    "idn",
+                    "igbinary",
+                    "imagick",
+                    "imap",
+                    "include",
+                    "inotify",
+                    "interbase",
+                    "intl",
+                    "ioncube_loader",
+                    "ioncube_loader_4",
+                    "jsmin",
+                    "json",
+                    "Idap",
+
+                    "nd_pdo_mysql",
+                    "oauth",
+                    "oci8",
+                    "odbc",
+                    "opache",
+                    "pdf",
+                    "pdo",
+                    "pdo_dlib",
+                    "pdo_firebird",
+                    "pdo_mysql",
+                    "pdo_odbc",
+                    "pdo_pgsql",
+                    "pdo_sqlite",
+                    "pgsql",
+                    "phalcon",
+
+                    "stats",
+                    "stem",
+                    "stomp",
+                    "suhosin",
+                    "sybase_ct",
+                    "sysvmsg",
+                    "sysvsem",
+                    "sysvshm",
+                    "tidy",
+                    "timezonedb",
+                    "trader",
+                    "translit",
+                    "uploadprogress",
+                    "uri_template",
+                    "uuid"
+                ]
+            },
+            "support_linux" : {
+                "headline": "Linux Hosting yang Stabil dengan Teknologi LVE",
+                "description": "SuperMicro <b>Intel Xeon 24-Cores</b> server RAM 128 GB dan teknologi LVE CLoudLinux untuk stabilitas server Anda. dilengkapi dengan SSD untuk kecepatan MySQL dan caching, Apache load balancer berbasis LiteSpeed Technologies, CageFs security, Raid-10 protection dan auto backup untuk keamanan website PHP Anda.",
+                "path": "~/assets/img/homepage/Image support.png"
+            }
+        }
     } 
 ]
