@@ -126,7 +126,7 @@
     },
     {
         "headline": "Linux Hosting yang Stabil dengan Teknologi LVE",
-        "description": "SuperMicro <b>Intel Xeon 24-Cores</b> server RAM 128 GB dan teknologi LVE CLoudLinux untuk stabilitas server Anda. dilengkapi dengan SSD untuk kecepatan MySQL dan caching, Apache load balancer berbasis LiteSpeed Technologies, CageFs security, Raid-10 protection dan auto backup untuk keamanan website PHP Anda.",
+        "description": "SuperMicro Intel Xeon 24-Cores server RAM 128 GB dan teknologi LVE CLoudLinux untuk stabilitas server Anda. dilengkapi dengan SSD untuk kecepatan MySQL dan caching, Apache load balancer berbasis LiteSpeed Technologies, CageFs security, Raid-10 protection dan auto backup untuk keamanan website PHP Anda.",
         "path": "/_nuxt/assets/img/homepage/Image support.png"
     }
 ]
